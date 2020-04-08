@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"vila","order":1,"parentId":0,"scrollX":1420,"scrollY":1804},
-null,
-{"id":3,"expanded":false,"name":"Introdução","order":2,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"Entrada dungeon demon","order":3,"parentId":0,"scrollX":816,"scrollY":704},
-{"id":5,"expanded":false,"name":"DGFIRE01","order":4,"parentId":0,"scrollX":1438,"scrollY":624},
+{"id":1,"expanded":true,"name":"vila","order":1,"parentId":0,"scrollX":1284,"scrollY":1788},
+{"id":2,"expanded":false,"name":"Leste da vila","order":10,"parentId":0,"scrollX":1116,"scrollY":804},
+{"id":3,"expanded":false,"name":"Introdução","order":2,"parentId":0,"scrollX":1757.3333333333333,"scrollY":989.3333333333334},
+{"id":4,"expanded":true,"name":"Oeste da vila","order":3,"parentId":0,"scrollX":1116,"scrollY":733.7142857142857},
+{"id":5,"expanded":false,"name":"DGFIRE01","order":4,"parentId":0,"scrollX":816,"scrollY":650},
 {"id":6,"expanded":false,"name":"DGFIRE02","order":5,"parentId":0,"scrollX":1503.2727272727273,"scrollY":940.3636363636364},
 {"id":7,"expanded":false,"name":"DGFIRE03","order":6,"parentId":0,"scrollX":1420,"scrollY":1608},
-{"id":8,"expanded":false,"name":"DGDEMON01","order":7,"parentId":0,"scrollX":868,"scrollY":704},
-{"id":9,"expanded":false,"name":"DGDEMON02","order":8,"parentId":0,"scrollX":3612,"scrollY":1638.6666666666667},
+{"id":8,"expanded":false,"name":"DGDEMON01","order":7,"parentId":0,"scrollX":1953,"scrollY":1089},
+{"id":9,"expanded":false,"name":"DGDEMON02","order":8,"parentId":0,"scrollX":2847,"scrollY":1311},
 {"id":10,"expanded":false,"name":"DGDEMON03","order":9,"parentId":0,"scrollX":2960,"scrollY":1424}
 ]
